@@ -1,3 +1,5 @@
+Reviewing more React with the Net Ninja YouTube Channel. Below is the standard React README.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
