@@ -13,3 +13,7 @@ To start the json server, use the following command:
 In order to avoid a component loading before the data has loaded, use a conditional like this:
 
     {blogs && <BlogList blogs={blogs} title="All Blogs" handleDelete={handleDelete}/>}
+
+##react-router-dom
+
+He uses version 5 in the tutorial, however this version does not work with the newest version of React, so I had to update to version 6 and change a few things in the code. 'Switch' is now 'Routes'.
